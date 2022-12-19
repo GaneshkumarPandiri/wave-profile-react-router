@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.profile-pic {
+  height: 100px;
+  width: 100px;
+}
+.name-style {
+  font-family: roboto;
+  font-weight: bolder;
+}
+.designation {
+  font-family: roboto;
+  color: #9aa5b1;
+}

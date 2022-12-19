@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.blog-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.list-blog-item {
+  list-style-type: none;
+}
+.description {
+  padding: 10px;
+  color: #9aa5b1;
+  font-family: roboto;
+}
+.title {
+  font-family: Roboto;
+  font-weight: bolder;
+}
